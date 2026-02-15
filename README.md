@@ -1,0 +1,1 @@
+# competitor-search-agent
